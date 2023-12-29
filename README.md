@@ -81,6 +81,6 @@ you can also add Delete System to delete the item after the decay time
 ```
 <h4> as per this example means the Battery will Despawn/Delete or you can say not useable after 3 days </h4>
 
-
+Comming Soon
 
 
