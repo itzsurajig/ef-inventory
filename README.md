@@ -18,7 +18,7 @@ EF Inventory
 ![image](https://github.com/blastersuraj/ef-inventory/assets/104319683/30e11608-5544-4143-90f7-565aea384ee6)
 
 <h1 align="center"> Key Features </h1>
-
+ 
 <ul>
   <li>Item Doubling Exploit Fixed</li>
   <li>Right Click To Use Item</li>
