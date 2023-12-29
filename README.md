@@ -4,6 +4,12 @@ EF Inventory
 
 </h1>
 
+<h1 align="center">
+  
+ [Buy Now 🛒](https://ef-productions.tebex.io/)
+ 
+</h1>
+
 <h1 align="center"> Previews </h1>
 
 ![for github](https://github.com/blastersuraj/ef-inventory/assets/104319683/caf3dff6-700b-42c0-82f4-b5de838326b5)
@@ -28,6 +34,24 @@ EF Inventory
   <li>ALL Images follow the same Dimensions (100px X 100px)</li>
   <li>Decay System</li>
 </ul>
+
+# Installation
+
+<ul>
+  <li> Download your Asset from (https://keymaster.fivem.net/asset-grants)</li>
+  <li> Delete the old Inventory Folder from your directory.</li>
+  <li>Make sure you have the latest update of qb-core</li>
+  <li>Make sure you have the latest update of qb-smallresources</li>
+  <li>Make sure you have the latest update of qb-weapons</li>
+  <li>Drag ef-inventory into your resources folder </li>
+  <li>Make sure that the folder is named ef-inventory </li>
+  <li>Replace all occurrences of qb-inventory with ef-inventory The example below uses Visual Studio Code to replace all instances.</li>
+</ul>
+
+![vscode1](https://github.com/blastersuraj/ef-inventory/assets/104319683/1b90375a-3017-4255-b1fd-dff7a0f788db)
+
+
+
 
 # Set up the decay system
 
