@@ -17,6 +17,10 @@ EF Inventory
 
 </h1>
 
+![EF_INVENT](https://github.com/blastersuraj/ef-inventory/assets/104319683/8a9346f9-4e3f-4ee4-998b-c5f204a2ffed)
+
+
+
 ![for github](https://github.com/blastersuraj/ef-inventory/assets/104319683/caf3dff6-700b-42c0-82f4-b5de838326b5)
 
 ![SPOILER_image](https://github.com/blastersuraj/ef-inventory/assets/104319683/9df23add-f818-492d-9d7f-ca6734ec599b)
