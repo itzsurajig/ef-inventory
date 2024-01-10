@@ -6,7 +6,7 @@ EF Inventory
 
 <h1 align="center">
   
- [Buy Now 🛒](https://ef-productions.tebex.io/)
+ [Buy Now 🛒](https://ef-development.tebex.io/)
  
 </h1>
 
@@ -50,7 +50,11 @@ EF Inventory
 
 ![vscode1](https://github.com/blastersuraj/ef-inventory/assets/104319683/1b90375a-3017-4255-b1fd-dff7a0f788db)
 
-
+# Dependency
+- [QBCore](https://github.com/qbcore-framework/qb-core)
+- [QB Weapons](https://github.com/qbcore-framework/qb-weapons)
+- [oxmysql](https://github.com/overextended/oxmysql/releases/tag/v2.7.7)
+<br>
 
 
 # Set up the decay system
@@ -80,7 +84,3 @@ you can also add Delete System to delete the item after the decay time
 ['battery'] = {['name'] = 'battery', ['label'] = 'Battery', ['weight'] = 2000, ['type'] = 'item', ['image'] = 'battery.png', ['unique'] = true, ['useable'] = true, ['shouldClose'] = true,	['combinable'] = nil, ['description'] = 'Heavy Battery to charge you Devices', ["decay"] = 3.0, ["delete"] = true},
 ```
 <h4> as per this example means the Battery will Despawn/Delete or you can say not useable after 3 days </h4>
-
-Comming Soon
-
-
