@@ -11,7 +11,11 @@ EF Inventory
  
 </h1>
 
-<h1 align="center"> Previews </h1>
+<h1 align="center"> 
+
+[Previews](https://www.youtube.com/watch?v=sS9gzXmj6pk)
+
+</h1>
 
 ![for github](https://github.com/blastersuraj/ef-inventory/assets/104319683/caf3dff6-700b-42c0-82f4-b5de838326b5)
 
