@@ -78,6 +78,7 @@ you can also add Delete System to delete the item after the decay time
 ["delete"] = true
 ```
 
+
 <h3> Complete Example to Add Decay in your Items </h3><br>
 <h3> Add your Item Like This </h3>
 
