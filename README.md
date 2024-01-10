@@ -4,14 +4,10 @@
 EF Inventory
 
 </h1>
-
-<h1 align="center">
   
- [Buy Now 🛒](https://ef-development.tebex.io/)
+[Buy Now 🛒](https://ef-development.tebex.io/)
  
-</h1>
 
-https://ef-development.tebex.io/package/6075620
 
 <h1 align="center"> 
 
